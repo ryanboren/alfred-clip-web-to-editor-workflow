@@ -29,7 +29,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Clip web page to editor</string>
+	<string>Clip web to editor</string>
 	<key>objects</key>
 	<array>
 		<dict>
