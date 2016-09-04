@@ -11,3 +11,11 @@ Edit template.txt to customize the format of the web clip.
 * {selection} will be replaced with the selected text, if any.
 
 The default template uses Markdown syntax.
+
+```
+# {title}
+
+> {selection}
+
+Source: [{title}]({url})
+```
